@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "77263688823",
+    "firebase_url": "https://teacher-f174a.firebaseio.com",
+    "project_id": "teacher-f174a",
+    "storage_bucket": "teacher-f174a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77263688823:android:58dd6f6b0f13c553",
+        "android_client_info": {
+          "package_name": "com.example.zt.techer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77263688823-khho0cv5ebu2a6m3jg9aqevggptkor1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy4mLAHGM3z1Q68wO6GVHcBUvkto1Ir4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
